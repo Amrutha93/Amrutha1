@@ -1,0 +1,16 @@
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\bin\Debug\WPFAppBingMapService.exe.config
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\bin\Debug\WPFAppBingMapService.exe
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\bin\Debug\WPFAppBingMapService.pdb
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\MainWindow.baml
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\MainWindow.g.cs
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\App.g.cs
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService_MarkupCompile.cache
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService.g.resources
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService.Properties.Resources.resources
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService.csproj.GenerateResource.Cache
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService.exe
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService.pdb
+C:\Users\Ammu Anumolu\Documents\Visual Studio 2013\Projects\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService.csprojResolveAssemblyReference.cache
+E:\dotnet\lab6\WPFAppBingMapService\WPFAppBingMapService\bin\Debug\WPFAppBingMapService.exe.config
+E:\dotnet\lab6\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService.exe
+E:\dotnet\lab6\WPFAppBingMapService\WPFAppBingMapService\obj\Debug\WPFAppBingMapService.pdb
